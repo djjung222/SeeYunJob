@@ -25,36 +25,89 @@
 * (연구 관련 공공기관)  
     **부산연구원**, **부산테크노파크**, **부산정보산업진흥원** 등 출연기관이 연구·정책 실증·기술지원 역할 수행 [부산광역시](https://www.busan.go.kr/bhinstitution?utm_source=chatgpt.com)
 
----
+## 📌 지방공기업·공공기관 신입 초봉 개요
 
-## 🔧 경상남도 지역 — 연구소 / 공공기관 / 공기업
+**전국 지방공기업/공단 신입 초봉(평균)**
 
-### 📍 국가 연구소 / 출연연
+* 도시철도공사(지방공기업) 신입 연봉: 약 **3,486만 원~3,786만 원대** 수준 통계가 존재합니다. [Clean Eye](https://www.cleaneye.go.kr/user/newEmpAvrSalStat.do?utm_source=chatgpt.com)
+* 도시개발공사 신입 연봉: 약 **3,260~3,280만 원대** 수준. [Clean Eye](https://www.cleaneye.go.kr/user/newEmpAvrSalStat.do?utm_source=chatgpt.com)
 
-* **한국전기연구원**  
-    전기·전자기술 분야의 정부출연연구기관으로 본원은 **창원(경남)**에 위치 [위키백과](https://en.wikipedia.org/wiki/Korea_Electrotechnology_Research_Institute?utm_source=chatgpt.com)
-
-### 📍 기타 중앙정부 연구기관 (경남 내 소재)
-
-* **국립수산과학원**  
-    농림축산식품부 산하 국가연구기관으로 본원은 부산 기장에 있으나 **국가 차원의 연구책임 기관**임 [위키백과](https://en.wikipedia.org/wiki/National_Institute_of_Fisheries_Science?utm_source=chatgpt.com)
-
-### 📍 지방공기업·출연기관 (경상남도 산하)
-
-경상남도 차원에서 운영하는 공공기관으로 지역 정책·산업·사회서비스 수행 기관입니다 (국가기관은 아님, 다만 공공성 강함): [Clean Eye](https://www.cleaneye.go.kr/siteGuide/iptCompStatus.do?utm_source=chatgpt.com)
-
-* 경남연구원
-* 경남테크노파크
-* **한국남동발전** (공기업 본사 경남 진주)
-* 중소벤처기업진흥공단 진주사무소
-* 한국토지주택공사 진주지사
-* 한국산업기술시험원 진주지사
-* 한국승강기안전공단 진주지사
-* 한국저작권위원회 진주사무소
-* 한국재료연구원(진주 관련 시설)
-* 한국전기연구원(창원) 포함 연구역할 기관 [Changwon University](https://www.changwon.ac.kr/public/cm/cntnts/cntntsView.do?cntntsId=6185&mi=17047&utm_source=chatgpt.com)
+→ 즉, **도시철도·도시개발·공단 형태 지방공기업 신입 초봉은 약 _3,200만~3,800만 원대_** 범위가 일반적입니다. [Clean Eye](https://www.cleaneye.go.kr/user/newEmpAvrSalStat.do?utm_source=chatgpt.com)
 
 ---
+
+## 📍 기관별/근접 자료 기준 신입 초봉 (2020~2026 자료 기반)
+
+### 🟦 **부산교통공사**
+
+4.4•Train yard
+
+* 대중 교통(도시철도·지하철) 운영 공기업. [위키백과](https://en.wikipedia.org/wiki/Busan_Transportation_Corporation?utm_source=chatgpt.com)
+* 신입 초봉 **약 3,760만 원** 수준이 일부 인사자료 및 연봉정보 플랫폼에서 확인됩니다(비공식). [캐치](https://www.catch.co.kr/Comp/CompSummary/383205?utm_source=chatgpt.com)
+
+※ 실제 지방공기업 신입 신입 평균급여 통계상 부산교통공사 포함 기관 평균도 **약 3,486만~3,786만 원대** 범위에 속합니다. [Clean Eye](https://www.cleaneye.go.kr/user/newEmpAvrSalStat.do?utm_source=chatgpt.com)
+
+---
+
+### 🟦 **부산도시공사**
+
+4.0•Hostel
+
+* 도시 재생·개발 공기업.
+* 신입 초봉은 지방도시공사 통계상 대체로 **약 3,400만 원대 전후** 수준으로 파악됩니다. [갓잡스의 취업진담](https://gotjobs.tistory.com/entry/%EB%82%98%EB%A7%8C-%EC%95%8C%EA%B8%B0-%EC%95%84%EA%B9%8C%EC%9A%B4-%EC%A7%80%EB%B0%A9%EA%B3%B5%EA%B3%B5%EA%B8%B0%EA%B4%80%EA%B3%B5%EA%B8%B0%EC%97%85-%EC%8B%A0%EC%9E%85%EC%97%B0%EB%B4%89-%EC%88%9C%EC%9C%84?utm_source=chatgpt.com)
+
+---
+
+### 🟦 **부산시설공단**
+
+* 시설관리 공단(공공시설·서비스 운영).
+* 지방공단 신입 평균임금 통계는 **약 3,400만~4,000만 원 대** 범위로 나타납니다. [Clean Eye](https://www.cleaneye.go.kr/user/newEmpAvrSalStat.do?utm_source=chatgpt.com)
+
+---
+
+### 🟦 **부산환경공단**
+
+3.9•공공사업부•열기
+
+* 환경시설·환경서비스 공단.
+* 공단 신입 평균임금 자료 기준으로 **약 3,400만~4,000만 원대**로 해석됩니다. [Clean Eye](https://www.cleaneye.go.kr/user/newEmpAvrSalStat.do?utm_source=chatgpt.com)
+
+---
+
+### 🟦 **부산관광공사**
+
+* 관광진흥·MICE·지역 관광 전략 공기업.
+* _공식 구인/연봉 정보 사이트_ 기준 **신입 초봉 약 2,750만 원**으로 확인됩니다. [잡코리아](https://www.jobkorea.co.kr/company/16152767/salary?utm_source=chatgpt.com)
+    * 다만 이는 제공된 연봉 데이터가 상대적으로 낮게 집계된 값이며, 연봉 통계 기준(정규직·성과급 제외 등)에 따라 다소 차이가 생길 수 있습니다.
+
+---
+
+## 📊 정리 — 신입 초봉 추정 범위
+
+| 기관 유형 | 신입 초봉(연봉 추정) |
+| --- | --- |
+| 도시철도/도시공사(교통·도시) | **약 3,400만 ~ 3,800만 원대** [Clean Eye](https://www.cleaneye.go.kr/user/newEmpAvrSalStat.do?utm_source=chatgpt.com) |
+| 시설·환경 공단 | **약 3,400만 ~ 4,000만 원대** [Clean Eye](https://www.cleaneye.go.kr/user/newEmpAvrSalStat.do?utm_source=chatgpt.com) |
+| 관광진흥 공기업 | **약 2,750만 원(통계값)** [잡코리아](https://www.jobkorea.co.kr/company/16152767/salary?utm_source=chatgpt.com) |
+
+---
+
+## 📌 예측해볼 수 있는 이유 (통계 맥락)
+
+* 지방공기업/공단 신입 연봉은 통계상 **도시철도공사나 지방공단 평균**을 기준으로 약 **3,200만~3,800만 원대**로 형성되는 경향이 있습니다. [Clean Eye](https://www.cleaneye.go.kr/user/newEmpAvrSalStat.do?utm_source=chatgpt.com)
+* 단, **부산관광공사처럼 특정 기관은 산업 특성상 다소 낮거나 다른 집계가 있기도** 합니다. [잡코리아](https://www.jobkorea.co.kr/company/16152767/salary?utm_source=chatgpt.com)
+
+---
+
+## 📎 참고
+
+* 부산시는 산하 **15~18개 공공기관**에서 정기 통합 채용을 실시하며, 신입 경쟁률이 높습니다. [sports.donga.com](https://sports.donga.com/region/article/all/20230924/121341262/1?utm_source=chatgpt.com)
+* 기관마다 **직무·직급·호봉체계**가 다르므로 실제 연봉은 공개 직무 공고를 확인하는 것이 가장 정확합니다.
+
+---
+
+필요하시면 **부산시 공공기관 신입 채용 직무별 직무역량/시험 유형 안내**도 정리해 드릴까요? (통합채용 시험 NCS·직무전문성 대비 전략 포함)
+
 
 ## 🧭 참고 & 분류 팁
 
